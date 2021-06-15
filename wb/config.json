@@ -1,0 +1,20 @@
+{
+
+    "params":{
+        "local_server":"True",
+        "local_url":"mysql://root:@localhost/amanullahsite",
+        "prod_url":"mysql://root:@localhost/amanullahsite",
+        "fb_url":"https://facebook.com/amanullahsite",
+        "tw_url":"https://twitter.com/amanullahsite",
+        "gmail_user":"beingamanullah9@gmail.com",
+        "gmail_pass":"jhklfeazadyzqxgn",
+        "about_me":"Hi there, Myself AMANULLAH A NADAF \n age=doesnt matter \n this blog may hlp you out with finding the answers for some of your queries \n if u want to contact me, you can use the contact section \n thank you.",
+        "no_of_posts":2,
+        "admin_user":"beingamanullah",
+        "admin_pass":"amanullah@786",
+        "secretcode":"LION",
+        "upload_location":"E:\\coding\\wb\\static\\files"
+    }
+
+
+}
